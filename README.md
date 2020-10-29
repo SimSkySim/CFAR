@@ -1,2 +1,0 @@
-# CFAR
-CFAR Code
